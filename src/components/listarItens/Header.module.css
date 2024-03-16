@@ -1,0 +1,10 @@
+.content {
+    color: var(--blue);
+
+    align-self: center;
+    border-radius: 8px;
+
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin-top: -1rem;
+}
